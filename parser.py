@@ -8,7 +8,7 @@ URL_TEMPLATE = 'https://api.github.com/search/code?q={word}+in:file+language:{la
 ELEMENTS_PER_PAGE = 100
 ERROR_STRING = 'Не удалось получить данные для языка {0} при поиске по ключевому слову {1}. Код ошибки {2}'
 USER_NAME = 'NS83'
-TOKEN = '6a69b3ffa5686e957ff26935248841c97352e8bc'
+TOKEN = ''
 WARNING = 'Потенциально опасен'
 ERROR = 'Есть уязвимость'
 WARNING_DESCRIPTION = 'испольуется {0}'
