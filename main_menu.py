@@ -1,5 +1,5 @@
 import json
-from parser import get_data
+from GitHubParsing import get_data
 search_settings = {'search_user': '',
                    'search_repository': '',
                    'search_organisation': '',
